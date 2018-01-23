@@ -40,7 +40,7 @@
 .collapsed>.e{-webkit-transform:rotate(-90deg);width:18px;height:20px;left:0px;top:0px}
 .e:hover{opacity:0.35}.e:active{opacity:0.5}.collapsed .kvov .e{display:none}
 .blockInner{display:block;padding-left:24px;border-left:1px dotted #bbb;margin-left:2px}
-#formattedJson,#jsonpOpener,#jsonpCloser{color:#333;font:13px/18px monospace}
+#formattedJson,#jsonpOpener,#jsonpCloser{color:#333;font:16px/18px; font-family: monaco,Consolas,Menlo,Courier,monospace;}
 #formattedJson{color:#444}.b{font-weight:bold}.s{color:#0B7500;word-wrap:break-word}
 #jfContent a:link,#jfContent a:visited{text-decoration:none;color:inherit}
 #jfContent a:hover,#jfContent a:active{text-decoration:underline;color:#050}
